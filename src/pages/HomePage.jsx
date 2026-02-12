@@ -69,7 +69,7 @@ const HomePage = () => {
       }}>
         {/* Instagram */}
         <a 
-          href="https://instagram.com/dayzstudiohsr" 
+          href="https://www.instagram.com/dayz_studi0" 
           target="_blank" 
           rel="noopener noreferrer"
           style={{
