@@ -11,7 +11,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "Beginner-Friendly",
       price: "₹500/session",
-      imageUrl: "https://i.ibb.co/SwSCNnSk/6c9b147f-954a-4401-8b42-8e022ea149f1.jpgw",
+      imageUrl: "https://i.ibb.co/jkFjpwhj/6c9b147f-954a-4401-8b42-8e022ea149f1-1.jpg",
       benefits: [
         "Improves flexibility",
         "Builds muscle strength",
@@ -47,7 +47,7 @@ export const programsData = {
       duration: "45 min",
       intensity: "Kids-Friendly",
       price: "₹400/session",
-      imageUrl: "https://i.ibb.co/ym58B2cp/f6f959b7-a1ac-4ece-a89d-26d7c3bea7e1.jpg",
+      imageUrl: "https://i.ibb.co/ycqyNsJn/f6f959b7-a1ac-4ece-a89d-26d7c3bea7e1-1.jpg",
       benefits: [
         "Improves focus",
         "Body awareness",
@@ -408,7 +408,7 @@ export const categoryTitles = {
   zumba: { 
     title: "Zumba & Fitness", 
     subtitle: "2 Programs Available",
-    image: "https://i.ibb.co/6RRtfp79/a87c06ab-855d-4a83-99b3-3c71ffb7068d.jpg"
+    image: "https://i.ibb.co/r2qVHJ07/269b011b-bcad-4556-a89b-3e57264a6ad3-1.jpg"
   },
   arts: { 
     title: "Arts & Music", 
