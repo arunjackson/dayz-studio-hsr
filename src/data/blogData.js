@@ -53,7 +53,7 @@ export const blogPosts = [
     `,
     date: "Feb 5, 2026",
     category: "Dance",
-    imageUrl: "https://images.pexels.com/photos/1766628/pexels-photo-1766628.jpeg?w=1200", // Dance hero
+    imageUrl: "https://ibb.co/nM4FjSmg", // Dance hero
     author: "DAYZ Studio"
   },
   {
