@@ -11,7 +11,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "Beginner-Friendly",
       price: "₹500/session",
-      imageUrl: "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400",
+      imageUrl: "https://i.ibb.co/SwSCNnSk/6c9b147f-954a-4401-8b42-8e022ea149f1.jpgw",
       benefits: [
         "Improves flexibility",
         "Builds muscle strength",
@@ -29,7 +29,7 @@ export const programsData = {
       duration: "75 min",
       intensity: "Intermediate",
       price: "₹700/session",
-      imageUrl: "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400",
+      imageUrl: "https://i.ibb.co/Kp0Cmv66/72eb4e84-d010-47c1-b201-1e39d84cc78f.jpg",
       benefits: [
         "Spinal decompression",
         "Core strength",
@@ -47,7 +47,7 @@ export const programsData = {
       duration: "45 min",
       intensity: "Kids-Friendly",
       price: "₹400/session",
-      imageUrl: "https://images.unsplash.com/photo-1599058917765-a780eda07a3e?w=400",
+      imageUrl: "https://i.ibb.co/ym58B2cp/f6f959b7-a1ac-4ece-a89d-26d7c3bea7e1.jpg",
       benefits: [
         "Improves focus",
         "Body awareness",
@@ -65,7 +65,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "Gentle",
       price: "₹600/session",
-      imageUrl: "https://images.unsplash.com/photo-1593814681464-efccaf7b26e6?w=400",
+      imageUrl: "https://i.ibb.co/d0TJjftk/e3135eb4-dec9-4f3f-8e00-aba43f8d2216.jpg",
       benefits: [
         "Pain management",
         "Injury recovery",
@@ -101,7 +101,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "All Levels",
       price: "₹550/session",
-      imageUrl: "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400",
+      imageUrl: "https://i.ibb.co/p6vnMMBJ/839ea2d0-3706-4636-b629-ffa5e935da99.jpg",
       benefits: [
         "Deep relaxation",
         "Chakra balancing",
@@ -140,7 +140,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "Beginner",
       price: "₹500/session",
-      imageUrl: "https://images.unsplash.com/photo-1504609773096-104ff2c73ba4?w=400",
+      imageUrl: "https://i.ibb.co/xq8LZQcg/image-3.jpg",
       benefits: [
         "Partner work",
         "Rhythm training",
@@ -158,7 +158,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "All Levels",
       price: "₹500/session",
-      imageUrl: "https://images.unsplash.com/photo-1535525153412-5a42439a210d?w=400",
+      imageUrl: "https://i.ibb.co/xtk4dR8g/e453ccf0-ad99-4322-82d2-1bd144c9e119.jpg",
       benefits: [
         "Self-expression",
         "Creativity",
@@ -176,7 +176,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "High Energy",
       price: "₹550/session",
-      imageUrl: "https://images.unsplash.com/photo-1547153760-18fc86324498?w=400",
+      imageUrl: "https://i.ibb.co/BHbxscS6/8cf2530f-0ef2-4a03-a279-7b06f59dd50f.jpg",
       benefits: [
         "Cardio workout",
         "Urban style",
@@ -194,7 +194,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "Moderate",
       price: "₹450/session",
-      imageUrl: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=400",
+      imageUrl: "https://i.ibb.co/wrst4cHQ/55dd0641-048d-4761-9715-27cc99f5deb9.jpg",
       benefits: [
         "Cultural connection",
         "Rhythm training",
@@ -212,7 +212,7 @@ export const programsData = {
       duration: "75 min",
       intensity: "Intermediate",
       price: "₹550/session",
-      imageUrl: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400",
+      imageUrl: "https://i.ibb.co/RkPcPB67/acf210c7-45f1-4c7f-8691-3b82725f0678.jpg",
       benefits: [
         "Emotional expression",
         "Flexibility",
@@ -230,7 +230,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "Beginner-Friendly",
       price: "₹500/session",
-      imageUrl: "https://images.unsplash.com/photo-1578844251758-2f71?w=400",
+      imageUrl: "https://i.ibb.co/6Jp9PxGc/f8c1a2ec-905f-4e77-bd1a-bbd84714b41f.jpg",
       benefits: [
         "Fusion style",
         "Party ready",
@@ -248,7 +248,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "High Energy",
       price: "₹500/session",
-      imageUrl: "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=400",
+      imageUrl: "https://i.ibb.co/3mLxbrQ5/b5ec8503-9f06-4cef-9aca-aab6becbdbfa.jpg",
       benefits: [
         "Film style",
         "Expression training",
@@ -266,7 +266,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "Moderate",
       price: "₹500/session",
-      imageUrl: "https://images.unsplash.com/photo-1518834107812-67b0b7c58434?w=400",
+      imageUrl: "https://i.ibb.co/nNtJjQkf/afcb109a-d65d-4ebf-bd17-7655c272b4f6.jpg",
       benefits: [
         "Classic style",
         "Expression mastery",
@@ -284,7 +284,7 @@ export const programsData = {
       duration: "60 min",
       intensity: "High Energy",
       price: "₹550/session",
-      imageUrl: "https://images.unsplash.com/photo-1545224144-b38dddbc8bb8?w=400",
+      imageUrl: "https://i.ibb.co/C5mdJqmR/eec6a629-51cf-472c-811d-76db11794a4c.jpg",
       benefits: [
         "Fusion style",
         "Urban desi vibe",
@@ -305,7 +305,7 @@ export const programsData = {
       duration: "55 min",
       intensity: "Cardio",
       price: "₹450/session",
-      imageUrl: "https://images.unsplash.com/photo-1534150034564-5cbb0e06d7a0?w=400",
+      imageUrl: "https://i.ibb.co/6RRtfp79/a87c06ab-855d-4a83-99b3-3c71ffb7068d.jpg",
       benefits: [
         "Calorie burn",
         "Latin rhythms",
@@ -323,7 +323,7 @@ export const programsData = {
       duration: "50 min",
       intensity: "High",
       price: "₹400/session",
-      imageUrl: "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400",
+      imageUrl: "https://i.ibb.co/20HHwBTQ/ce52708e-d334-4b1f-89b3-171e09f4340b.jpg",
       benefits: [
         "Heart health",
         "Weight loss",
@@ -344,7 +344,7 @@ export const programsData = {
       duration: "90 min",
       intensity: "All Levels",
       price: "₹600/session",
-      imageUrl: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=400",
+      imageUrl: "https://i.ibb.co/4wV9CyDg/f2677d90-8b37-43ed-9f78-5853944d50c3.jpg",
       benefits: [
         "Creative expression",
         "Relaxation",
@@ -362,7 +362,7 @@ export const programsData = {
       duration: "45 min",
       intensity: "Beginner to Advanced",
       price: "₹700/session",
-      imageUrl: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=400",
+      imageUrl: "https://i.ibb.co/JjMyyDRG/0c8b8447-fd39-40bd-bbf3-e00219cae33c.jpg",
       benefits: [
         "Play songs",
         "Read music",
@@ -380,7 +380,7 @@ export const programsData = {
       duration: "90 min",
       intensity: "All Levels",
       price: "₹650/session",
-      imageUrl: "https://images.unsplash.com/photo-1452587925148-ce544e77e70d?w=400",
+      imageUrl: "https://i.ibb.co/Lz1YJq9x/fe721a23-9dd2-4a0e-9648-d85d5a522783.jpg",
       benefits: [
         "Camera skills",
         "Composition",
@@ -403,12 +403,12 @@ export const categoryTitles = {
   dance: { 
     title: "Dance Styles", 
     subtitle: "9 Styles Available",
-    image: "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?w=400"
+    image: "https://i.ibb.co/BHbxscS6/8cf2530f-0ef2-4a03-a279-7b06f59dd50f.jpg"
   },
   zumba: { 
     title: "Zumba & Fitness", 
     subtitle: "2 Programs Available",
-    image: "https://images.unsplash.com/photo-1534150034564-5cbb0e06d7a0?w=400"
+    image: "https://i.ibb.co/6RRtfp79/a87c06ab-855d-4a83-99b3-3c71ffb7068d.jpg"
   },
   arts: { 
     title: "Arts & Music", 
