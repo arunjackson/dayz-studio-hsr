@@ -11,10 +11,10 @@ const HomePage = () => {
         <div className="logo">
           {/* NEW MORSE CODE LOGO - DAYZ in Morse pattern */}
           <svg viewBox="0 0 260 260">
-            {/* Outer ring */}
+            {/* Outer ring - matching DAYZ text color #003300 */}
             <circle cx="130" cy="130" r="105" fill="none" stroke="#003300" strokeWidth="3"/>
 
-            {/* Diamond */}
+            {/* Diamond - matching DAYZ text color #003300 */}
             <polygon
               points="130,10 250,130 130,250 10,130"
               fill="none"
@@ -22,7 +22,7 @@ const HomePage = () => {
               strokeWidth="3"
             />
 
-            {/* Gradient */}
+            {/* Gradient - keeping your orange gradient */}
             <defs>
               <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
                 <stop offset="0%" stopColor="#ff9933" />
@@ -30,10 +30,10 @@ const HomePage = () => {
               </linearGradient>
             </defs>
 
-            {/* Inner pulse */}
+            {/* Inner pulse - orange gradient */}
             <circle cx="130" cy="130" r="80" fill="url(#grad)" className="pulse" />
 
-            {/* Morse Code – DAYZ */}
+            {/* Morse Code – DAYZ - matching text color #003300 */}
             <g fill="#003300">
 
               {/* D  -.. */}
