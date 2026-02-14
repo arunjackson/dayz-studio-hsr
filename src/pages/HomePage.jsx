@@ -9,31 +9,54 @@ const HomePage = () => {
       {/* MAIN LOGO SECTION */}
       <div className="home-container">
         <div className="logo">
+          {/* NEW MORSE CODE LOGO - DAYZ in Morse pattern */}
           <svg viewBox="0 0 260 260">
-            <circle cx="130" cy="130" r="105" fill="none" stroke="#0f1f1a" strokeWidth="3"/>
-            <polygon className="diamond"
+            {/* Outer ring */}
+            <circle cx="130" cy="130" r="105" fill="none" stroke="#003300" strokeWidth="3"/>
+
+            {/* Diamond */}
+            <polygon
               points="130,10 250,130 130,250 10,130"
-              fill="none" stroke="#0f1f1a" strokeWidth="3"/>
+              fill="none"
+              stroke="#003300"
+              strokeWidth="3"
+            />
+
+            {/* Gradient */}
             <defs>
               <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
-                <stop offset="0%" stopColor="#f6b44c"/>
-                <stop offset="100%" stopColor="#e76b3c"/>
+                <stop offset="0%" stopColor="#ff9933" />
+                <stop offset="100%" stopColor="#e76b3c" />
               </linearGradient>
             </defs>
-            <circle className="pulse" cx="130" cy="130" r="80" fill="url(#grad)"/>
-            <g fill="#0f1f1a">
-              <rect x="75" y="85" width="25" height="8"/>
-              <circle cx="120" cy="90" r="6"/>
-              <circle cx="145" cy="90" r="6"/>
-              <circle cx="90" cy="115" r="6"/>
-              <rect x="115" y="110" width="30" height="8"/>
-              <rect x="80" y="135" width="30" height="8"/>
-              <circle cx="130" cy="140" r="6"/>
-              <rect x="150" y="135" width="40" height="8"/>
-              <rect x="90" y="160" width="30" height="8"/>
-              <rect x="130" y="160" width="30" height="8"/>
-              <circle cx="170" cy="165" r="6"/>
-              <circle cx="190" cy="165" r="6"/>
+
+            {/* Inner pulse */}
+            <circle cx="130" cy="130" r="80" fill="url(#grad)" className="pulse" />
+
+            {/* Morse Code – DAYZ */}
+            <g fill="#003300">
+
+              {/* D  -.. */}
+              <rect x="78" y="95" width="28" height="8" />
+              <circle cx="120" cy="99" r="5" />
+              <circle cx="138" cy="99" r="5" />
+
+              {/* A  .- */}
+              <circle cx="95" cy="125" r="5" />
+              <rect x="110" y="121" width="28" height="8" />
+
+              {/* Y  -.-- */}
+              <rect x="80" y="150" width="28" height="8" />
+              <circle cx="120" cy="154" r="5" />
+              <rect x="135" y="150" width="28" height="8" />
+              <rect x="168" y="150" width="28" height="8" />
+
+              {/* Z  --.. */}
+              <rect x="95" y="178" width="28" height="8" />
+              <rect x="128" y="178" width="28" height="8" />
+              <circle cx="170" cy="182" r="5" />
+              <circle cx="188" cy="182" r="5" />
+
             </g>
           </svg>
 
@@ -124,7 +147,7 @@ const HomePage = () => {
 
         {/* YouTube */}
         <a 
-          href="https://youtube.com/@dayzstudiohsr" 
+          href="https://youtu.be/NQyGqGR9cqk?si=6iVGzDB_BbxZw6tN" 
           target="_blank" 
           rel="noopener noreferrer"
           style={{
