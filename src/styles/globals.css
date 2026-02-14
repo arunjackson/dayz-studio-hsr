@@ -974,3 +974,108 @@ body {
     height: 40px !important;
   }
 }
+
+
+/* ===== MOBILE FIX - NO SCROLL NEEDED ===== */
+@media (max-width: 480px) {
+  .home-container {
+    min-height: 100vh !important;
+    padding: 10px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+  }
+
+  .logo svg {
+    width: 180px !important;
+    height: 180px !important;
+  }
+
+  .dayz {
+    font-size: 42px !important;
+    letter-spacing: 6px !important;
+    margin: 10px 0 0 !important;
+  }
+
+  .studio {
+    width: 160px !important;
+    font-size: 12px !important;
+    letter-spacing: 4px !important;
+    padding: 4px 0 !important;
+    margin-bottom: 8px !important;
+  }
+
+  .services {
+    font-size: 11px !important;
+    letter-spacing: 2px !important;
+    margin: 5px 0 !important;
+  }
+
+  .tagline {
+    font-size: 11px !important;
+    letter-spacing: 1px !important;
+    margin-bottom: 15px !important;
+  }
+
+  /* ✅ SMALLER EXPLORE BUTTON */
+  .explore-btn {
+    padding: 10px 28px !important;
+    font-size: 14px !important;
+    min-width: 160px !important;
+    margin: 5px auto 15px !important;
+  }
+
+  /* ✅ SOCIAL ICONS - VISIBLE WITHOUT SCROLLING */
+  div[style*="position: fixed"][style*="bottom: 30px"] {
+    position: relative !important;
+    bottom: 0 !important;
+    margin-top: 5px !important;
+    padding: 10px !important;
+    gap: 24px !important;
+  }
+
+  .social-icon-circle,
+  a[href*="instagram"] div:first-child,
+  a[href*="youtube"] div:first-child {
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  a[href*="instagram"] svg,
+  a[href*="youtube"] svg {
+    width: 20px !important;
+    height: 20px !important;
+  }
+
+  .social-label,
+  a[href*="instagram"] span,
+  a[href*="youtube"] span {
+    font-size: 9px !important;
+    letter-spacing: 0.5px !important;
+  }
+}
+
+/* ✅ EXTRA SMALL DEVICES (iPhone SE) */
+@media (max-width: 380px) {
+  .logo svg {
+    width: 160px !important;
+    height: 160px !important;
+  }
+
+  .dayz {
+    font-size: 36px !important;
+    letter-spacing: 5px !important;
+  }
+
+  .explore-btn {
+    padding: 8px 24px !important;
+    font-size: 13px !important;
+    min-width: 140px !important;
+  }
+
+  a[href*="instagram"] div:first-child,
+  a[href*="youtube"] div:first-child {
+    width: 36px !important;
+    height: 36px !important;
+  }
+}
